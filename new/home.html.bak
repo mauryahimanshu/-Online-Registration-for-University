@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>MMMUT</title>
+</head>
+
+<body class="container">
+    <div class="container">
+        <div class="header">
+            <a href="index.html" id="logo">
+                <img src="images/largelogo.jpg" width="200px" height="200px">
+            </a>
+            <h1 class="nav-brand" style="padding-left:200px;">MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY</h1>
+            <marquee>
+                WELCOME! MET-2019 is registration is open till 20th April 2019
+            </marquee>
+        </div>
+        <div class="container-fluid">
+
+            <div class="main container-fluid">
+                <h2 id="instruction">Instructions</h2>
+                <p class="main-content">
+                    <i>INSTRUCTIONS FOR FILLING ONLINE APPLICATION FORM</i><br><br>
+                    The following steps are required to fill up the On-line application form:
+                    Before proceeding to fill-up the On-Line Application Form, the candidates are required to read the
+                    following instructions given below :<br><br><br>
+
+                    <b>Step-1: </b>Profile Registration
+                    Please use this step to give general information about you to register the profile. For profile
+                    registration, you need to have a valid email-id. In case, you don’t have the same, please create an
+                    email-id before proceeding for profile registration. During profile registration, you need to set a
+                    password of length of 6 to 10 characters. No two online application forms can be filled with a
+                    single email-id; therefore if a candidate is willing to apply for two or more courses, he/she needs
+                    two or more email-ids so that for each course a separate online application form with a unique
+                    email-ID can be filled. The details of fields in the online application form have been illustrated
+                    in section-B. After entering the required information in On-line form, submit the form by clicking
+                    on SUBMIT button. A mail containing login information will be forwarded at your registered
+                    email-id.
+
+                    Please note down the admission form number carefully as you need to essentially mention it in all
+                    your future correspondence/queries related to your application form.<br><br><br>
+
+                    <b>Step-2: </b>Candidate Login
+                    Use your login id and the password to login again to proceed further for Application Form filling
+                    and proceed to Step-3. <br><br><br>
+
+                    <b>Step-3: </b>Fill Registration Form
+                    After entering the required information in the registration form, use edit Profile option to
+                    edit/correct your application (if needed) otherwise click on Proceed to Payment button. Make
+                    payment form shall be displayed on subsequent screen and click on Make Payment button to deposit
+                    the fee.<br><br><br>
+
+                    <b>Step-4: </b>Dispatch of Confirmation Page
+                    Please take the printout of the confirmation page of application form by affixing recent photograph
+                    (same as the one uploaded in application form), put signature and left-hand thumb impression of
+                    candidate and the signature of parent/guardian at appropriate places. The duly complete copy of the
+                    confirmation page of application formshould be sent along with copy of payment receipt to The
+                    Coordinator, Malaviya Entrance Test (MET), Madan Mohan Malaviya University of Technology, Deoria
+                    Road, Gorakhpur - 273010 (U.P.) so as to reach latest by 4 P.M. April 8, 2019. If the payment of
+                    the fee is made through online (e-payment) and due to some difficulties the candidate is not sure
+                    whether the payment is processed or not, then please use login tab to enter in your login account
+                    and use verify payment option to check your payment is successful or not.
+
+                    Please do keep 6 additional copies of the recent photograph (same as uploaded on ON-line
+                    application form) for future use.
+
+                    
+
+                </p>
+            </div>
+            <div class="container-fluid">
+                <div class="container-middle">
+                    <h4><input type="checkbox" name="checkbox">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I agree the <u>Terms and
+                            Conditions</u>.</h4>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="container-middle">
+                    <a href="page2.html">
+                        <input type="button" value="NEXT" name="next" id="next-button">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer" style="position:static;">
+            &copy; 2019 MMMUT, Gorakhpur
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

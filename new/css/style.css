@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: aliceblue;
+}
+
+.container-fluid {
+    background-color: lightsteelblue;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 50px;
+    clear: both;
+}
+
+#logo {
+    /* display: inline-block; */
+    float: left;
+}
+
+.nav-brand {
+    text-align: center;
+    display: inline-block;
+}
+
+.nav-logo {
+    display: inline-block;
+    background: url("/images/Linkin_Park_logo_2014.jpg") no-repeat;
+    height: 500px;
+    width: 500px;
+}
+
+.main {
+    border: 2px solid red;
+    border-radius: 10px;
+    height: 1000px;
+    overflow: auto;
+    /* margin-top: 50px; */
+}
+
+.main-content {
+    padding: 20px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+.container-middle {
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: -50px;
+}
+
+#next-button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    background-color: green
+}
+
+.footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 10px;
+    background-color: lightgray;
+    border-top: 2px solid gray;
+    clear: both;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+#instruction {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+marquee {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-weight: 1000
+}
+
+.register {
+    border-right: 0.5px solid green;
+    width: 50%;
+    background-color: lightsteelblue;
+    float: left;
+    height: 300px;
+}
+
+.login {
+    border-left: 0.5px solid green;
+    width: 50%;
+    /* display: inline-block; */
+    background-color: lightsteelblue;
+    float: left;
+    height: 300px;
+}
+
+.wrap {
+    /* position: absolute; */
+
+    background-color: lightsteelblue;
+}
+
+#register-heading {
+    text-align: center;
+    /* border-top: 2px solid green;
+    border-bottom: 2px solid green; */
+}
+
+#login-heading {
+    text-align: center;
+}
+
+label {
+    font-weight: 400;
+}
+
+/* ul {
+    color: white;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    color:red;
+} */
